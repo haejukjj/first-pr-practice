@@ -7,6 +7,7 @@ fork/branch, commit, push, and open a PR.
 
 - `src/sum.js` — a small `sum` function
 - `test/sum.test.js` — a test for it
+- `CLAUDE.md` — guidance for Claude Code when working in this repo
 
 ## Usage
 
